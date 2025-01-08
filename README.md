@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shanmughapriyan
 - 👀 I’m interested in data engineering...
-- 🌱 I’m currently learning Bigdata tools and methodologies...
-- 💻 Wokring as a Data Integration developer
+- 💻 Wokring as a Data Engineer
 
